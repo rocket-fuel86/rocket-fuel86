@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**rocket-fuel86/rocket-fuel86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,python,html,css" />
+</p>
+<h3 align="left">Frameworks & Libraries</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,react,nodejs,django,fastapi,electron,bootstrap,tailwindcss,redux,jquery,flask" />
+</p>
+<h3 align="left">Tools & Platforms</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,visualstudio,webstorm,pycharm,docker,mysql,postgres,firebase,sqlite,vercel,netlify,figma,vite,npm,windows,linux" />
+</p>
+
+---
