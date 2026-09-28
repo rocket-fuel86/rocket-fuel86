@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,python,solidity,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,lua,js,ts,python,solidity,html,css" />
 </p>
 <h3 align="left">Frameworks & Libraries</h3>
 <p align="left">
@@ -20,7 +20,7 @@
 </p>
 <h3 align="left">Tools & Platforms</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ps,ai,figma,git,github,vscode,visualstudio,remix,androidstudio,webstorm,pycharm,rider,docker,postgres,firebase,sqlite,vite,npm,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=ps,ai,figma,git,github,vscode,visualstudio,remix,androidstudio,webstorm,pycharm,rider,docker,postgres,firebase,azure,sqlite,vite,npm,windows,arch" />
 </p>
 
 ---
