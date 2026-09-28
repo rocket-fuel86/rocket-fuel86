@@ -20,7 +20,7 @@
 </p>
 <h3 align="left">Tools & Platforms</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ps,ai,figma,git,github,vscode,visualstudio,remix,androidstudio,webstorm,pycharm,rider,docker,postgres,firebase,azure,sqlite,vite,npm,windows,arch" />
+  <img src="https://skillicons.dev/icons?i=ps,ai,figma,git,github,vscode,visualstudio,remix,androidstudio,webstorm,pycharm,rider,docker,sqlite,postgres,firebase,azure,vite,npm,windows,arch" />
 </p>
 
 ---
