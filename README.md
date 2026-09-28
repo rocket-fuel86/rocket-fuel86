@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,lua,js,ts,python,solidity,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js,ts,python,lua,solidity,html,css" />
 </p>
 <h3 align="left">Frameworks & Libraries</h3>
 <p align="left">
