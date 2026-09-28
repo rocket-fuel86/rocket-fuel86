@@ -14,7 +14,7 @@
 </p>
 <h3 align="left">Tools & Platforms</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,visualstudio,webstorm,pycharm,docker,mysql,postgres,firebase,sqlite,vercel,netlify,figma,vite,npm,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,visualstudio,webstorm,pycharm,docker,mysql,postgres,firebase,sqlite,figma,vite,npm,windows,linux" />
 </p>
 
 ---
