@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=rocket-fuel86&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&reversal=false&text=rocket-fuel86&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
 </p>
 
 ---
@@ -26,5 +26,5 @@
 ---
 
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=false&text=thanks+for+visiting&textBg=false&fontSize=50&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&reversal=false&text=thanks+for+visiting&textBg=false&fontSize=24&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
 </p>
