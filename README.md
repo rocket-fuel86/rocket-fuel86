@@ -2,6 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=ceb4f0&section=header&reversal=false&text=rocket-fuel86&textBg=false&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=40&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
 </p>
 
+<div align="center">
+
+![Visit counter](https://count.getloli.com/@rocket-fuel86?name=rocket-fuel86&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
+</div>
+
 ---
 
 ## Hi there 👋
