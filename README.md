@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Visit counter](https://count.getloli.com/@rocket-fuel86?name=rocket-fuel86&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+![Visit counter](https://count.getloli.com/get/@:rocketfuelGitHub?theme=gelboru)
 
 </div>
 
