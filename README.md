@@ -25,6 +25,14 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rocket-fuel86&theme=tokyonight&hide_border=true&background=0d1117&stroke=5BB0F7&ring=5BB0F7&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=5BB0F7&sideLabels=5BB0F7&dates=8ab4f8" width="48%" />
+</p>
+
+---
+
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ceb4f0&section=footer&reversal=false&text=thanks+for+visiting&textBg=false&fontColor=ffffff&fontSize=46&fontAlign=50&fontAlignY=77&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
 </p>
