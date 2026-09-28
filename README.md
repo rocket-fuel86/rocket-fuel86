@@ -10,7 +10,7 @@
 </p>
 <h3 align="left">Frameworks & Libraries</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,spring,react,nodejs,django,fastapi,electron,bootstrap,tailwindcss,redux,jquery,flask" />
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,django,fastapi,electron,bootstrap,tailwindcss,redux,jquery,flask" />
 </p>
 <h3 align="left">Tools & Platforms</h3>
 <p align="left">
